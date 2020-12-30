@@ -21,3 +21,4 @@ const texto2 = '1: !"#$%&\'()*+,-./ 2: :;<=>?@'
 
 // Saída no console: [ '1', '2' ]
 console.log(texto2.match(/[^!-/:-@\s]/g))
+

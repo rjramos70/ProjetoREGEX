@@ -15,3 +15,4 @@ console.log(texto.match(/[A-z]/g))  // Intervalos usam a ordem da tabela UNICODE
 // Saída no console: ERRO - SyntaxError: Invalid regular expression: /[a-Z]/: Range out of order in character class
 // console.log(texto.match(/[a-Z]/g))
 // console.log(texto.match(/[4-1]/g))
+

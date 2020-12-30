@@ -24,4 +24,3 @@ console.log(texto.match(/[-?]/g))
 // PODE PRECISAR de escape dentro de conjunto: - [ ] ^
 
 
-

@@ -20,4 +20,3 @@ const regexComESemAcento = /n[aã]/g
 console.log(texto2.match(regexComESemAcento))
 
 
-

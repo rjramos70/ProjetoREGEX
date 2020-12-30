@@ -18,5 +18,3 @@ console.log(texto.match(/[2-4]/g))
 // i : Ignora maiuscula e minuscula
 console.log(texto.match(/[A-z1-3]/gi))
 
-
-
